@@ -37,7 +37,3 @@ See the full report for detailed results, graphs, and conclusions.
 
 ## 👤 Author
 ASHISH — Chemical Engineering, Final Year
-
-
-## 👤 Author
-[Your Name] — Chemical Engineering, Final Year
